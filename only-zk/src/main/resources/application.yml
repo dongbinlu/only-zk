@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: only-zookeeper
+
+  profiles:
+    active:
+      - dev
+

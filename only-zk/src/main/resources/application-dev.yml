@@ -1,0 +1,7 @@
+server:
+  port: 8050
+
+zk:
+  zkUrl: 127.0.0.1:2181
+  sessionTimeout: 1000000
+  connectionTimeout: 10000
